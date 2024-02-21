@@ -8,3 +8,13 @@ C:\Users\Дмитрий\Desktop\саша\C#\masegbox\masegbox\obj\Debug\masegbox
 C:\Users\Дмитрий\Desktop\саша\C#\masegbox\masegbox\obj\Debug\masegbox.csproj.CoreCompileInputs.cache
 C:\Users\Дмитрий\Desktop\саша\C#\masegbox\masegbox\obj\Debug\masegbox.exe
 C:\Users\Дмитрий\Desktop\саша\C#\masegbox\masegbox\obj\Debug\masegbox.pdb
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\bin\Debug\masegbox.exe.config
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\bin\Debug\masegbox.exe
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\bin\Debug\masegbox.pdb
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.Form1.resources
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.exe
+C:\Users\Дмитрий\Documents\GitHub\masegbox\masegbox\masegbox\obj\Debug\masegbox.pdb
